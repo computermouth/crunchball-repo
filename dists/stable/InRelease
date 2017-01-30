@@ -2,29 +2,29 @@
 Hash: SHA256
 
 Codename: stable
-Date: Mon, 30 Jan 2017 02:29:14 UTC
+Date: Mon, 30 Jan 2017 04:54:14 UTC
 Architectures: armhf
 Components: main
 MD5Sum:
- 38357821e434cc1ac4996d1004bbc2ef 3001 main/binary-armhf/Packages
- 9686b2d870f708ce792543d61ef90f09 1151 main/binary-armhf/Packages.gz
+ a7783a55124dd10020403174d7b0a24c 4413 main/binary-armhf/Packages
+ 4162c265e2cc153c8ab432cee403810e 1722 main/binary-armhf/Packages.gz
  12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
 SHA1:
- 3a390460c94b817b69883c025fb01f1a46c923e8 3001 main/binary-armhf/Packages
- 7ca86e6cd550f28e5b4eba3e7d395c58d67e5f9f 1151 main/binary-armhf/Packages.gz
+ ec7608f23d17287b2be5b00d9aae4b26af25ca84 4413 main/binary-armhf/Packages
+ ebcf15ff48b1f6704d64efbb413912bba114b09f 1722 main/binary-armhf/Packages.gz
  4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
 SHA256:
- 98dbe8b1a6092864b236546b0145bb6f75f80f95bb5023325d5efdf95f69908d 3001 main/binary-armhf/Packages
- 04a754e1ff6c9e476eeb6f4e0c740c2077135bdbe2078a9e3bddbdb09a96df6c 1151 main/binary-armhf/Packages.gz
+ 7bdabb0ed9d28e6411bac228420823cc7b6d16b06341cbc5a8b185676f538d77 4413 main/binary-armhf/Packages
+ 705759bbd0ecc0e846f4843cc66bdd9527bc2826584bd869cda098408f891e87 1722 main/binary-armhf/Packages.gz
  adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJYjqT6AAoJEFNVUbmNg5JZGwkH/ijgSmOGvGl8FsTPiQHn5fvH
-V0ZweZwkbSZ2afjyhPA3oVpG+Tp8n5Y1h4sOPC37HjyMy8tqLoGLtkrXgQggWf/R
-lejqABGtKmLarNKAjERMwJ18GS1EZdNVyJohg6KA1AI0o5JeivyGdO1kv00YRzxf
-8HjpcEaKxttBjpr58TKuPqMjlsSdKX/wcUAQSMAlQ7G2yav6tpOm9Lw0K5MeJxsB
-KeNTBR8rfinhnDdRGZwhuqhxE1mGP/HHToN2I/AG6jtRZWRwP3xeGogzAQkdIL2/
-tgDDC0gN6owlvL3odILJTQyisNyqmFqbI1TDlRiAIlvTXTg3dFMKFfUmdS8Q/Uc=
-=rmgd
+iQEcBAEBCAAGBQJYjsb2AAoJEFNVUbmNg5JZ2WsH/RzUYezf3hWIJxtT2sz9doNO
+VliygyzdIhvS5VJLCkZK/+EVCAHCm5UNpq9HpPMZEGArYSClBerVpSeVla5xLUTZ
+9go4YlTU64vazp7TVTDXgG+xy7Y3jNoMTNLnJsiDEBx9dL9XGTI4j6hokcCtcDUh
+RRLMc+tRoSM/FWQBn0REOuVScxQ56zgDVOVOel2C9xiUNywtNGVEXCkSE+0cx2Tm
+9/x3/wbZmA5k1FA2pTLBO7O3ktyj/t72furQosb5WsPtTo/KlX7u338icXsxv/Yb
+cwMj9VIHRerWji27D3kGxy/S0NP7Mr7ooyGbfC2o1rxDtVrLroKRXq2jH47eIMU=
+=4LIm
 -----END PGP SIGNATURE-----

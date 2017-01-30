@@ -1,3 +1,42 @@
+Package: chip-gpio-keys
+Version: 0.1
+Architecture: armhf
+Maintainer: computermouth <computermouth@crunchbangplusplus.org>
+Installed-Size: 6
+Homepage: https://github.com/computermouth/chip-gpio-keys
+Priority: optional
+Section: unknown
+Filename: pool/main/c/chip-gpio-keys/chip-gpio-keys_0.1_armhf.deb
+Size: 2550
+SHA256: 56d069fa1fb1e07657472d0020d76db72f4404a2d008deb5f6c071fce258568a
+SHA1: 0466495687ae08f1b42897a0cb32ac415ffed4d2
+MD5sum: 1fb1e1001ae6982b35977a1564831b86
+Description: GPIO key translation in DTBO
+ GPIO key translation in DTBO
+
+Package: device-tree-compiler
+Version: 1.4.1+ntc-1
+Architecture: armhf
+Maintainer: Hector Oron <zumbi@debian.org>
+Installed-Size: 129
+Depends: libc6 (>= 2.7)
+Multi-Arch: foreign
+Homepage: https://git.kernel.org/cgit/utils/dtc/dtc.git
+Priority: extra
+Section: devel
+Filename: pool/main/d/device-tree-compiler/device-tree-compiler_1.4.1+ntc-1_armhf.deb
+Size: 56480
+SHA256: 984a59230d9009b6dd304b0ca82138ef9f1de42794fbba5d5f21305688a6f382
+SHA1: d586a8fe8702fc5f1aeb9988b01b5ee46165169f
+MD5sum: e8828deffc7076f9a44e8aa2ee6bce1a
+Description: Device Tree Compiler for Flat Device Trees
+ Device Tree Compiler, dtc, takes as input a device-tree in
+ a given format and outputs a device-tree in another format
+ for booting kernels on embedded systems.
+ .
+ Typically, the input format is "dts", a human readable source
+ format, and creates a "dtb", or binary format as output.
+
 Package: libsdl2-2.0-0
 Source: libsdl2
 Version: 2.0.2+dfsg1-6
