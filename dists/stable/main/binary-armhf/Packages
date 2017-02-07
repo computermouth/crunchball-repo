@@ -1,16 +1,16 @@
 Package: chip-gpio-keys
-Version: 0.2
+Version: 0.3
 Architecture: armhf
 Maintainer: computermouth <computermouth@crunchbangplusplus.org>
-Installed-Size: 8
+Installed-Size: 9
 Homepage: https://github.com/computermouth/chip-gpio-keys
 Priority: optional
 Section: unknown
-Filename: pool/main/c/chip-gpio-keys/chip-gpio-keys_0.2_armhf.deb
-Size: 2786
-SHA256: 1f32d2d0330cc53ea73155740f5e2f018dad0753542e1969e84cb951b50dd6d1
-SHA1: 94abd935af58f0f39cc223bb059789ac21b7eb57
-MD5sum: d06d990db3550d30733da56ec12ea575
+Filename: pool/main/c/chip-gpio-keys/chip-gpio-keys_0.3_armhf.deb
+Size: 2858
+SHA256: cb17091cdefc1f1f70c7d93d3d5bf528e80091365b7a601b1960ffedc0f3ef23
+SHA1: 316380d3b7c9e6aec581899a6d0d514804c884e5
+MD5sum: 6e5b1510c76ccefdde210275c45f233a
 Description: GPIO key translation in DTBO
  GPIO key translation in DTBO
 

@@ -1,16 +1,16 @@
 Codename: stable
-Date: Mon, 06 Feb 2017 06:50:09 UTC
+Date: Tue, 07 Feb 2017 07:43:22 UTC
 Architectures: armhf
 Components: main
 MD5Sum:
- 367c2e09fbe8f1924f6c739e47a085e6 4413 main/binary-armhf/Packages
- 2f121f6f41702f9bb2ca13cf76ae2aa7 1725 main/binary-armhf/Packages.gz
+ 200983884764400c5b3063af7bc4cdac 4413 main/binary-armhf/Packages
+ b034a907696bb80267e87a0a40eff815 1724 main/binary-armhf/Packages.gz
  12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
 SHA1:
- 9c1e4c0b6525ef78a46fbc6545b83cdcc0ab56a3 4413 main/binary-armhf/Packages
- e68b7e001a26b5f7d3938e8fa631daf20e3dd539 1725 main/binary-armhf/Packages.gz
+ 47affcf959743ecd1bc768f786faefd55b63af29 4413 main/binary-armhf/Packages
+ 256da42736358d36373fae7ee553cec84cabf232 1724 main/binary-armhf/Packages.gz
  4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
 SHA256:
- 1a9e51b6b7538090a88dddb97e2f4349300aa7c4ebc1872eec404a76d74c4917 4413 main/binary-armhf/Packages
- 6d833d1ef61cb756795dbbe8cb042373ad00723d05acd5e0d6f22d0e11a32edb 1725 main/binary-armhf/Packages.gz
+ bed1c1c20690c927104e1ceaac4a94d4471a437f3ff91e17a0402ec95f4fdce2 4413 main/binary-armhf/Packages
+ 98c581356467505391367db004a97928cbae11cf32d22d522074af5095197353 1724 main/binary-armhf/Packages.gz
  adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
