@@ -2,29 +2,29 @@
 Hash: SHA256
 
 Codename: stable
-Date: Mon, 30 Jan 2017 04:54:14 UTC
+Date: Mon, 06 Feb 2017 06:50:09 UTC
 Architectures: armhf
 Components: main
 MD5Sum:
- a7783a55124dd10020403174d7b0a24c 4413 main/binary-armhf/Packages
- 4162c265e2cc153c8ab432cee403810e 1722 main/binary-armhf/Packages.gz
+ 367c2e09fbe8f1924f6c739e47a085e6 4413 main/binary-armhf/Packages
+ 2f121f6f41702f9bb2ca13cf76ae2aa7 1725 main/binary-armhf/Packages.gz
  12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
 SHA1:
- ec7608f23d17287b2be5b00d9aae4b26af25ca84 4413 main/binary-armhf/Packages
- ebcf15ff48b1f6704d64efbb413912bba114b09f 1722 main/binary-armhf/Packages.gz
+ 9c1e4c0b6525ef78a46fbc6545b83cdcc0ab56a3 4413 main/binary-armhf/Packages
+ e68b7e001a26b5f7d3938e8fa631daf20e3dd539 1725 main/binary-armhf/Packages.gz
  4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
 SHA256:
- 7bdabb0ed9d28e6411bac228420823cc7b6d16b06341cbc5a8b185676f538d77 4413 main/binary-armhf/Packages
- 705759bbd0ecc0e846f4843cc66bdd9527bc2826584bd869cda098408f891e87 1722 main/binary-armhf/Packages.gz
+ 1a9e51b6b7538090a88dddb97e2f4349300aa7c4ebc1872eec404a76d74c4917 4413 main/binary-armhf/Packages
+ 6d833d1ef61cb756795dbbe8cb042373ad00723d05acd5e0d6f22d0e11a32edb 1725 main/binary-armhf/Packages.gz
  adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJYjsb2AAoJEFNVUbmNg5JZ2WsH/RzUYezf3hWIJxtT2sz9doNO
-VliygyzdIhvS5VJLCkZK/+EVCAHCm5UNpq9HpPMZEGArYSClBerVpSeVla5xLUTZ
-9go4YlTU64vazp7TVTDXgG+xy7Y3jNoMTNLnJsiDEBx9dL9XGTI4j6hokcCtcDUh
-RRLMc+tRoSM/FWQBn0REOuVScxQ56zgDVOVOel2C9xiUNywtNGVEXCkSE+0cx2Tm
-9/x3/wbZmA5k1FA2pTLBO7O3ktyj/t72furQosb5WsPtTo/KlX7u338icXsxv/Yb
-cwMj9VIHRerWji27D3kGxy/S0NP7Mr7ooyGbfC2o1rxDtVrLroKRXq2jH47eIMU=
-=4LIm
+iQEcBAEBCAAGBQJYmByhAAoJEFNVUbmNg5JZQ94IAIZYMgGTB2LpaXliHSU49oBH
+pU1py8sZdTDBcZpZ5ARatHiUZv3S63LMdqIBP45zHXjeUntBaR5We3R0rMnai4WG
+ZmwmqCCfcaAUaMH2h95HvqsCNoy5Vg40sVbQjSH3rW1NpbI8i8VhEH/jz3eOFkQA
+HYcsAYfqzJCZk+dKP3aGYKA07bRUc6S47v1D+WsAPo3GK0P3Q4Vtk2i8SEoHbrww
+QcTqi0bwTWCjBdJqJAx8RURv9XvxAb87HmvFReWp0/njY5gP+sY09ng0yz5z3RgF
++vCjkKS5B8Mpq85p7oBujl6npeAJLmi2t1NznFe3gOfRhiScuLEaam0mbr8+kF4=
+=d2GX
 -----END PGP SIGNATURE-----
